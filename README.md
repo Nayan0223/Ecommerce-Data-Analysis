@@ -201,10 +201,6 @@ The cleaned dataset is prepared for a Power BI dashboard. *(Add screenshots or t
 
 `Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `EDA` · `Data Cleaning` · `Data Validation` · `Power BI (dashboard design)`
 
-## 👨‍💻 Author
-
-**Nayan Bharodiya**
-BCA Graduate | Aspiring Data Analyst
 
 ## ⭐ Project Goal
 
